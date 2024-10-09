@@ -11,9 +11,9 @@
 
 Graphical mode created in C++ on OpenGL
 
-Game Description:
+**GAME DESCRIPTIPN**
 
-Keybord control for PLAYER 1 :
+Keybord control for PLAYER  :
 
 W - UP
 
