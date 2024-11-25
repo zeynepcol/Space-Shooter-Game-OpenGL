@@ -1,11 +1,6 @@
 <h1 align="center">Space Shooter Game w OpenGL by @zeynepcol</h1> 
-
-<br></br>
 <h3 align="left">Graphical space shooter game developed in C++ using OpenGL.</h3>
-<br></br>
-
-
-<h3 align="left">IMAGES</h3>
+<h3 align="center">IMAGES</h3>
 
 ![5-OpenGL 1](https://github.com/user-attachments/assets/0ac9e279-33c7-407a-b4e6-fef3ed85cdb9)
 
