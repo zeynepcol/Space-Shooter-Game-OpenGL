@@ -1,5 +1,6 @@
 //ZEYNEP ÇÖL 
 //SPACE SHOOTER WITH OPENGL USING C++
+//@zeynepcol
 
 #ifdef _WIN32
 	#include<windows.h>
