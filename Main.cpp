@@ -59,6 +59,7 @@ void displayRasterText(float x ,float y ,float z ,char *stringToDisplay) {
 	}
 }
 
+
 void init()
 {
 	glClearColor(0.0,0.0,0.0,0);
